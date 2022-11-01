@@ -2565,7 +2565,7 @@ footer {
   padding-bottom: 4.2rem;
   font-size: 1.5rem;
   line-height: 2.7rem;
-  color: rgba(255, 255, 255, 0.25);
+  color: black;
 }
 
 footer a,
@@ -2575,11 +2575,11 @@ footer a:visited {
 
 footer a:hover,
 footer a:focus {
-  color: white;
+  color: black;
 }
 
 footer h4 {
-  color: white;
+  color: black;
   font-size: 1.5rem;
   padding-bottom: 2.4rem;
   margin-bottom: 2.4rem;
@@ -2608,7 +2608,7 @@ footer ul li {
 
 footer ul a,
 footer ul a:visited {
-  color: rgba(255, 255, 255, 0.25);
+  color: rgba(8, 8, 8, 0.25);
 }
 
 .footer-logo {
@@ -2668,7 +2668,7 @@ footer ul a:visited {
 }
 
 .footer-subscribe #mc-form input[type="email"]:focus {
-  color: #ffffff;
+  color: black;
 }
 
 .footer-subscribe #mc-form input[type=submit] {
